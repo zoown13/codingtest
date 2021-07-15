@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ea7bf7-8f66-42a9-ab94-572e24ff1791" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/travel_route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/word_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/find_prime(complete_search).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_exam(complete_search).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
